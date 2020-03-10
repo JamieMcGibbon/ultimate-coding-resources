@@ -251,6 +251,9 @@
         language you like. People use them as a speed contest, interview prep, company training, university coursework, 
         practice problems, or to challenge each other.
       </li>
+      <li>
+        <a href="https://codingbat.com/" target="blank">CodingBat</a> - CodingBat is a website that offers a variety of algorithm practice problems that can be solved and tested right on the CodingBat.com website. (Support for Java and Python only).
+      </li>
     </ol>
   </details>
   <details open>
